@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="KarunakarMala_GitHub_Banner_With_My_Photo.jpg" width="100%" alt="Karunakar Mala — UI/UX Designer and Web Developer" />
+</div>
+
+<div align="center">
 
 # 🌿 KARUNAKAR MALA
 
